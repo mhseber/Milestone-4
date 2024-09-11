@@ -81,7 +81,7 @@ function password(obj) {
     return passwordString
 }
 //test problem 4
-// console.log(password({ name: 'mhseber', birthYear: 2001, siteName: 'google' }))
+console.log(password({ name: 'mhseber', birthYear: 2001, siteName: 'google' }))
 // console.log(password({ name: 'love', birthYear: 2007, siteName: 'Facebook' }))
 // console.log(password({ name: 'jojo', birthYear: 200, siteName: 'twetter' }))
 // console.log(password({ name: 'toto', birthYear: 200, }))
@@ -117,7 +117,7 @@ function monthlySavings(arr, livingCost) {
 
 
 //test problem 5
-console.log(monthlySavings([1000, 2000, 3000], 5400))
-console.log(monthlySavings([1000, 2000, 2500], 5000))
-console.log(monthlySavings([900, 2700, 3400], 10000))
-console.log(monthlySavings(100, [900, 2700, 3400]))
+// console.log(monthlySavings([1000, 2000, 3000], 5400))
+// console.log(monthlySavings([1000, 2000, 2500], 5000))
+// console.log(monthlySavings([900, 2700, 3400], 10000))
+// console.log(monthlySavings(100, [900, 2700, 3400]))
